@@ -1,4 +1,6 @@
-- 👋 Hi, my nickname here is @vigilent-io
+# Who I am
+
+- 👋 Hi, my name is [David Kremer](http://david-kremer.fr)
 - 👀 I’m interested in backend applications, algorithmic, game theory and computer vision
 - 🌱 I’m currently learning algorithmic
 - 💞️ I’m looking to collaborate on networking and backend applications
