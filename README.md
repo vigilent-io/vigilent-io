@@ -1,9 +1,9 @@
 # Who I am
 
 - 👋 Hi, my name is [David Kremer](http://david-kremer.fr)
-- 👀 I’m interested in backend applications, algorithmic, game theory and computer vision
-- 🌱 I’m currently learning algorithmic
-- 💞️ I’m looking to collaborate on networking and backend applications
+- 👀 I’m interested in backend applications, algorithmic, game theory, and computer vision
+- 🌱 I’m currently focusing on algorithmic
+- 💞️ I’m looking to collaborate on networking and backend applications. I have a keen interest in creating developer tools as well.
 - 📫 Send me an email if you think I might help you: courrier+work@david-kremer.fr
 
 Here are some results obtained in coding challenges:
